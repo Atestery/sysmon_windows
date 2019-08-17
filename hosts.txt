@@ -2,4 +2,4 @@
 127.0.0.1;localhost;server
 127.0.0.2;localhost;serv2
 192.168.1.35;router;rrr
-81.176.70.2;www.nalog.ru;сайт налоговой службы
+
